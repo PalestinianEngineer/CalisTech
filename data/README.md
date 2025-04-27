@@ -6,3 +6,6 @@ Later on, we also captured participants performing 10 reps of pushups and 10 rep
 The data collection process was time-consuming and tedious, so we were limited to collecting data from only a few people in a small environment.
 We initially focused on pushups and situps to improve the quality of our AI model’s results.
 The project is scalable to include other movements in the future.
+
+Python Code:
+https://colab.research.google.com/drive/1BrFH-76ZC_J6SSj5vYTiAds9P_38ipyL?usp=sharing
